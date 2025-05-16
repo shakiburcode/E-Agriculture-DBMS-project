@@ -14,6 +14,7 @@
 		if(!$db){
 			die("Unable to select database");
 		}
+		
 	//Create query
 	$id=$_SESSION['USER_ID'];
 	$loan=$_POST['loan'];
