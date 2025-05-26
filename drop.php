@@ -1,5 +1,4 @@
 <?php
-
  $link = mysql_connect('localhost', 'root', ''); 
  //Check link to the mysql server 
  if(!$link){ die('Failed to connect to server: ' . mysql_error()); } 
