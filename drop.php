@@ -9,6 +9,7 @@
 	die("Unable to select database"); 
  }
 
+
  function dropDown()
 	{
 		$options="<select>"; 
