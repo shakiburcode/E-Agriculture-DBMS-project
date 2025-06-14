@@ -16,6 +16,7 @@
 			die("Unable to select database");
 		}
 		
+		
 	//Create query
 	$qry = 'SELECT * FROM user_farmer WHERE USER_ID = \''.$_SESSION['USER_ID'].'\'';
 	
