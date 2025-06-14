@@ -27,6 +27,7 @@
  {
 	if($_POST['br_id']) 
 		{
+			
 			//Connect to mysql server
 			$link = mysql_connect('localhost', 'root', ''); 
 			//Check link to the mysql server
