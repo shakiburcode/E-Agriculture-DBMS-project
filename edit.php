@@ -95,6 +95,7 @@
 	</body>
 	</html>';
  	}
+		
 	}
  else{
 	include('login.php');
