@@ -1,4 +1,5 @@
 
+
 <?php
 //Start the session to see if the user is authenticated user. 
 	session_start();
