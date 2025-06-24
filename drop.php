@@ -8,6 +8,7 @@
  if(!$db)
  {
 	die("Unable to select database"); 
+	 
  }
  function dropDown()
 	{
