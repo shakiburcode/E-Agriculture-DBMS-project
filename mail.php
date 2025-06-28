@@ -1,3 +1,4 @@
+
 <html>
 <head>
 <title>Mail | E-Agriculture</title>
@@ -28,6 +29,7 @@
 	mail($to,$subject,$body,$headers);
 	echo "<h3>Thank you for your message.It has been sent to the Admin and you will get a reply as soon as possible.</h3>";
 	?>
+
 
 </body>
 </html>
