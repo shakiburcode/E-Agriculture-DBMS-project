@@ -1,6 +1,7 @@
 <?php 
 echo'<html>
 <head>
+
 <title>Register | E-Agriculture</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
