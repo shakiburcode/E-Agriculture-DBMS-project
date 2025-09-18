@@ -20,6 +20,7 @@
 	$qry = 'SELECT * FROM account WHERE USER_ID = \''.$_SESSION['USER_ID'].'\'';
 	
 	//Execute query
+		
 	$result = mysql_query($qry);
 	echo'<html>
 	<head>
