@@ -15,6 +15,7 @@
 	$db = mysql_select_db('farmer_database');
 		if(!$db){
 			die("Unable to select database");
+			
 		}
 	//Create query
 	$name = $_POST['name'];
