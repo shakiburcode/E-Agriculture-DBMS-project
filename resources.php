@@ -1,5 +1,6 @@
  <html>
  <head>
+
 	 
 <title>Resources | E-Agriculture</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
