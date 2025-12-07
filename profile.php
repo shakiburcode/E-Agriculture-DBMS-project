@@ -1,6 +1,5 @@
 <?php
 
-
 //Start the session to see if the user is authenticated user. 
 session_start(); //Check if the session variable for user authentication is set, if not redirect to login page.
 echo'<html>
