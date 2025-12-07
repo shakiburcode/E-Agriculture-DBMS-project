@@ -68,6 +68,7 @@
 		</table>
 		</form>';
 		}
+		
 	}
 	echo'<br><br><h3><a href="edit_bank.php">Edit bank details</a></h3>';
 	echo'<h3><a href="profile.php">Back to Profile</a></h3>';
