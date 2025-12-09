@@ -4,7 +4,6 @@ session_unset();
 session_destroy();
 ?>
 
-
 <html>
 <head>
 <title>Login Page | E-Agriculture</title>
