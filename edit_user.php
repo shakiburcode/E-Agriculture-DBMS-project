@@ -15,7 +15,6 @@
 			die("Unable to select database");
 			
 		}
-
 		
 	//Create query
 	$name = $_POST['name'];
