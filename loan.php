@@ -19,7 +19,6 @@
 	
 	//Execute query
 		
-		
 	$result = mysql_query($qry);
 	echo'<html>
 	<head>
