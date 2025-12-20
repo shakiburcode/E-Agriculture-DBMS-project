@@ -9,6 +9,7 @@
 	if(!$link){
         die('Failed to connect to server: ' . mysql_error());
 	}
+		
 	//Select database
 	$db = mysql_select_db('farmer_database');
 		if(!$db){
