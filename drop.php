@@ -1,4 +1,3 @@
-
 <?php
  $link = mysql_connect('localhost', 'root', ''); 
  //Check link to the mysql server 
