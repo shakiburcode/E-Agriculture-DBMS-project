@@ -16,6 +16,7 @@
 		}
 
 		
+		
 	//Create query
 	$id=$_SESSION['USER_ID'];
 	$loan=$_POST['loan'];
