@@ -17,7 +17,8 @@
 		}
 		//Create query
 	$qry = 'SELECT * FROM user_farmer WHERE USER_ID = \''.$_SESSION['USER_ID'].'\'';
-	
+
+		
 	//Execute query
 	$result = mysql_query($qry);
 	while($row = mysql_fetch_assoc($result)){
