@@ -1,4 +1,5 @@
 <?php
+
 //Start the session to see if the user is authenticated user. 
 	session_start();
 	//Check if the user is authenticated first. Or else redirect to login page 
